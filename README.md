@@ -8,6 +8,7 @@ This repository contains my solutions to Data Structures & Algorithms problems f
 
 -> Language
 - Java
+- C
 
 -> Topics Covered
 - Arrays
